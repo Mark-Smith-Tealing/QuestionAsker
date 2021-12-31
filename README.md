@@ -8,7 +8,7 @@ NOTE: The spreadsheet cannot be opened at the same time as the GUI is in use, ot
 
 # Instructions for Use
 
-Firstly, ensure that `os.chdir(...)` on line x points to the correct directory (that which contains the spreadsheet). Then ensure that loadfilename correctly contains the name of the spreadsheet (Week 2 Summary.xlsx) by default. When the program is first run, you will see the main menu.
+Firstly, ensure that `os.chdir(...)` on line x points to the correct directory (that which contains the spreadsheet). Then ensure that loadfilename correctly contains the name of the spreadsheet (Notes.xlsx) by default. When the program is first run, you will see the main menu.
 
 ![First Page](assets/StartPage.png)
 
