@@ -28,7 +28,7 @@ After pressing 'Go!', you will be presented with a question in blue and a space 
 
 The 'Okay!' button will take you to the answer page, where the correct answer is displayed (with Latex formatting) and your answer is displayed below. Check buttons are available to select if your response was correct, this information will also be saved into the spreadsheet. The 'Next Question!' button repeats the process and 'Finish!' Takes us to a Recap screen then back to the main menu.
 
-The main menu also includes a 'Try Me Text' button that allows you to check your latex as you create your spreadsheet during revision. This can be useful as some latex commands are not correctly displayed by matplotlib. The Try Me Text page is similar to the Question and Answer pages as shown below. 
+The main menu also includes a 'Try Me Text' button that allows you to check your latex as you create your spreadsheet during revision. This can be useful as some latex commands are not correctly displayed by matplotlib. The Try Me Text page is similar to the Question and Answer pages, as shown below. 
 
 <p align="center" width="100%">
     <img width="45%" src="https://user-images.githubusercontent.com/77517061/147829411-0f30cea9-7d5c-40ad-bd94-a5144964f769.png">
@@ -38,14 +38,11 @@ The main menu also includes a 'Try Me Text' button that allows you to check your
     <img width="55%" src="https://user-images.githubusercontent.com/77517061/147829417-5cc450c7-a370-4543-895a-9ffc27f1d5ab.png">
 </p>
 
+The above is a definition of the lim sup of a sequence of events from a class I took called Probability, Measure and Finance in my fourth year, 2020-2021. 
+
 ---
 
 # Conclusion
 
-While the application is not complete, the basic functions work extremely well and provided me everything I was looking for in a flashcard application. I implemented it in my classes over my mathematics degree with good levels of success. 
-
-
-
-
-
+While the application is not complete, the basic functions work extremely well and provided me with an effective flashcard application. I implemented the program in my classes over my degree with good levels of success. The Latex functionality proving invaluable in a mathematics degree. The program allowed me to implement active recall and spaced repetition into my studies, two well documented and highly effective study techniques. 
 
