@@ -103,8 +103,8 @@ class Menu(tk.Frame):
         global questionsToBeDone    # Int number of questions to be answered for the relevant week
     
         currentWeek = 0             # Set current week to 0
-        questionsDone = 170         # Set Questions done to 170
         questionsToBeDone = 184     # Set questions to be done to 184
+        questionsDone = 170         # Set Questions done to 170
     
         logo = tk.Text(self, width=8, height=3) # Leave space for a logo
         logo.grid(row=0,column=0,stick="w")     # Place the logo at (0,0) in grid
@@ -483,8 +483,8 @@ class Recap(tk.Frame):
             Recap.progressBar.grid(row=4,column=1,sticky='w')
             ttk.Button(self, text = "Finish!", command = ReturnToMenu).grid(row=5,column=1,sticky="w")   # Create a return to menu button 
         
-os.chdir('C:/Mark/uni/Uni Work/4th Year/Class/Semester 2/Probability, Measure and Finance/Lecture Notes')
-loadfilename = 'Week 2 Summary.xlsx'  
+os.chdir('C:/Users/mark/Downloads')
+loadfilename = 'Notes.xlsx'  
 xl_workbook = py.load_workbook(loadfilename)    # Load the example questions workbook
 
 global sheet_names                      # Create a global variable to hold the sheet names
