@@ -38,7 +38,11 @@ The main menu also includes a 'Try Me Text' button that allows you to check your
     <img width="55%" src="https://user-images.githubusercontent.com/77517061/147829417-5cc450c7-a370-4543-895a-9ffc27f1d5ab.png">
 </p>
 
+---
 
+# Conclusion
+
+While the application is not complete, the basic functions work extremely well and provided me everything I was looking for in a flashcard application. I implemented it in my classes over my mathematics degree with good levels of success. 
 
 
 
