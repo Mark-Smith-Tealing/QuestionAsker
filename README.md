@@ -14,5 +14,18 @@ Firstly, ensure that `os.chdir(...)` on line x points to the correct directory (
 
 By pressing the 'Study' button you will progress to the second page where you can select sheets from the spreadsheet to work on, you can select as many as desired. 
 
+![Study Page](assets/StudyPage2.png)
+
+After pressing 'Go!', you will be presented with a question in blue and a space to type an answer.
+
+![Question Page](assets/GiveAnswer.png)
+
+The 'Okay!' button will take you to the answer page, where the correct answer is displayed (with Latex formatting) and your answer is displayed below. Check buttons are available to select if your response was correct, this information will also be saved into the spreadsheet. The 'Next Question!' button repeats the process and 'Finish!' Takes us to a Recap screen then back to the main menu.
+
+The main menu also includes a 'Try Me Text' button that allows you to check your latex as you create your spreadsheet during revision. This can be useful as some latex commands are not correctly displayed by matplotlib. The Try Me Text page is similar to the Question and Answer pages as shown below. 
+
+![Try Me Text1](assets/TryMeText.png)
+![Try Me Text2](assets/TryMeTextAnswer.png)
+
 
 
