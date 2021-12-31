@@ -38,7 +38,7 @@ The main menu also includes a 'Try Me Text' button that allows you to check your
     <img width="55%" src="https://user-images.githubusercontent.com/77517061/147829417-5cc450c7-a370-4543-895a-9ffc27f1d5ab.png">
 </p>
 
-The above is a definition of the lim sup of a sequence of events from a class I took called Probability, Measure and Finance in my fourth year, 2020-2021. 
+The above is a definition of the lim sup of a sequence of events from a class I took (Probability, Measure and Finance) in my fourth year. 
 
 ---
 
